@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4A90E2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8B5CF6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="48" fill="url(#grad)"/>
+
+  <!-- Pencil tip -->
+  <path d="M 65 25 L 75 35 L 45 65 L 35 55 Z" fill="#FFD700" stroke="#FFA500" stroke-width="1"/>
+
+  <!-- Pencil body -->
+  <rect x="60" y="15" width="20" height="15" fill="#FF6B6B" rx="2"/>
+
+  <!-- Doodle line (AI recognition element) -->
+  <path d="M 25 75 Q 35 65 45 75 T 65 75" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+
+  <!-- AI dots (neural network representation) -->
+  <circle cx="30" cy="70" r="2.5" fill="#FFFFFF" opacity="0.8"/>
+  <circle cx="50" cy="68" r="2.5" fill="#FFFFFF" opacity="0.8"/>
+  <circle cx="70" cy="70" r="2.5" fill="#FFFFFF" opacity="0.8"/>
+</svg>
