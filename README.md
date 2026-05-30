@@ -1,6 +1,18 @@
 # **Project Znarr**
 
+[![Render Deployment](https://img.shields.io/badge/Render-Deployed-46E3B7?logo=render&logoColor=white)](https://project-znarr.onrender.com/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?logo=googlechrome&logoColor=white)](https://project-znarr.onrender.com/)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 **Project Znarr** is an AI-powered interactive drawing game that challenges users to sketch doodles while advanced vision models attempt to identify the drawing in real-time. Built with React, Express, and integrated with Google Gemini 3.5 Flash and Hugging Face Inference APIs, the application delivers sub-second AI-driven image classification with intelligent fallback mechanisms for maximum reliability.
+
+---
+
+## **🚀 Live Demo**
+
+**[🎨 Try the Live Application →](https://project-znarr.onrender.com/)**
+
+Experience AI-powered doodle recognition in action! Draw anything and watch as Gemini 3.5 Flash and Hugging Face vision models compete to guess what you're creating in real-time.
 
 ---
 
