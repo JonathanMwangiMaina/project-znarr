@@ -1,0 +1,6 @@
+{
+  "name": "Doodle Guesser",
+  "description": "An interactive digital drawing pad where an AI guesses what you draw in real-time, using Hugging Face and Gemini 3.5 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
